@@ -3,13 +3,18 @@
     <option name="version" value="2.7.0" />
     <option name="selectedTheme" value="dracula" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="isBoldTabs" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="accentColor" value="80cbc4" />
+    <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="arrowsStyle" value="Darcula" />
     <option name="compactDropdowns" value="true" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="d98ceb3:163ee994d4b:-7fff" />
     <option name="allowDataCollection" value="true" />
+    <option name="treeFontSizeEnabled" value="true" />
   </component>
 </application>
