@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../AD Object Creation/Global AWS script v0.7.ps1 [aws-account-provisioner-live]'" />
-    <option name="defaultScopeName" value="File '.../AD Object Creation/Global AWS script v0.7.ps1 [aws-account-provisioner-live]'" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../AD Object Creation/Global AWS script v0.7.ps1 [aws-account-provisioner-live]'" />
+    <option name="customScope" value="Project 'aws-account-provisioner'" />
+    <option name="defaultScopeName" value="Project 'aws-account-provisioner'" />
+    <option name="SEARCH_SCOPE" value="Project 'aws-account-provisioner'" />
   </component>
 </application>
