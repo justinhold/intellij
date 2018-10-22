@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'aws-account-provisioner'" />
-    <option name="defaultScopeName" value="Project 'aws-account-provisioner'" />
-    <option name="SEARCH_SCOPE" value="Project 'aws-account-provisioner'" />
+    <option name="customScope" value="File '.../utils.py [aws-scripts]'" />
+    <option name="defaultScopeName" value="File '.../utils.py [aws-scripts]'" />
+    <option name="SEARCH_SCOPE" value="File '.../utils.py [aws-scripts]'" />
   </component>
 </application>
