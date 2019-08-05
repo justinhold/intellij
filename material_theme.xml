@@ -1,7 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="arrowsStyle" value="Darcula" />
-    <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="darkTitleBar" value="true" />
@@ -14,6 +13,6 @@
     <option name="accentColor" value="80cbc4" />
     <option name="highlightColor" value="80cbc4" />
     <option name="userId" value="d98ceb3:163ee994d4b:-7fff" />
-    <option name="version" value="2.8.2" />
+    <option name="version" value="4.2.1" />
   </component>
 </application>
