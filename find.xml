@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'aws-provisioner'" />
-    <option name="defaultScopeName" value="Project 'aws-provisioner'" />
+    <option name="customScope" value="Project 'aws-pwd_policy'" />
+    <option name="defaultScopeName" value="Project 'aws-pwd_policy'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'aws-provisioner'" />
+    <option name="SEARCH_SCOPE" value="Project 'aws-pwd_policy'" />
   </component>
 </application>
