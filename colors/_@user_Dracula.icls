@@ -4,12 +4,18 @@
     <property name="created">2018-07-29T23:54:19</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2019-08-05T19:53:24</property>
+    <property name="modified">2019-08-19T21:11:29</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.5" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="MesloLGL Nerd Font Mono" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="MesloLGL Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
