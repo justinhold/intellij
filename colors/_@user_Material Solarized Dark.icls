@@ -4,7 +4,7 @@
     <property name="created">2018-06-02T21:15:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.2.0.0</property>
-    <property name="modified">2019-08-19T21:23:31</property>
+    <property name="modified">2018-06-02T21:27:02</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -17,7 +17,7 @@
     <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
+  <option name="CONSOLE_FONT_NAME" value="Meslo LG M for Powerline" />
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
@@ -29,7 +29,6 @@
     <option name="CARET_ROW_COLOR" value="73642" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
     <option name="DELETED_LINES_COLOR" value="4d1d08" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="607d8b" />
     <option name="GUTTER_BACKGROUND" value="73642" />
     <option name="INDENT_GUIDE" value="73642" />
     <option name="LINE_NUMBERS_COLOR" value="586e75" />
