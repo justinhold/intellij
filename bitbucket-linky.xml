@@ -10,5 +10,5 @@
       <record scheme="https" hostname="stash.gfk.com" port="-1" path="/" uuid="43c6c277-f3fa-3895-8347-07ed46f1656e" />
     </lookup>
   </component>
-  <component name="Instance" id="ec8d1cc4-99b3-464d-88bd-efdc2e71d65b" version="2020.2.135" />
+  <component name="Instance" id="ec8d1cc4-99b3-464d-88bd-efdc2e71d65b" version="7.5" />
 </application>
