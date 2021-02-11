@@ -1592,6 +1592,14 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.rego">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="org.openpolicyagent.opa-idea-plugin" />
+              <option name="myPluginName" value="Open Policy Agent" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.rest">
           <value>
             <plugin>
