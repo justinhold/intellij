@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="current" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="planfile" type="PLAIN_TEXT" />
@@ -21,6 +20,7 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
+      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
