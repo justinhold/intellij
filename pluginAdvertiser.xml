@@ -152,6 +152,16 @@
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="OPA_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Opa eval" pluginName="Open Policy Agent" pluginId="org.openpolicyagent.opa-idea-plugin" />
+                    </value>
+                  </entry>
+                  <entry key="OPA_TEST_RUN_CONFIGURATION">
+                    <value>
+                      <FeaturePluginData displayName="Opa test" pluginName="Open Policy Agent" pluginId="org.openpolicyagent.opa-idea-plugin" />
+                    </value>
+                  </entry>
                   <entry key="PowerShellRunType">
                     <value>
                       <FeaturePluginData displayName="PowerShell" pluginName="PowerShell" pluginId="com.intellij.plugin.adernov.powershell" />
