@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="blob" type="AUTO_DETECTED" />
       <mapping pattern="doimport" type="AUTO_DETECTED" />
       <mapping pattern="current" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
