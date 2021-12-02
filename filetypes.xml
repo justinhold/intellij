@@ -4,7 +4,6 @@
       <mapping pattern="blob" type="AUTO_DETECTED" />
       <mapping pattern="current" type="AUTO_DETECTED" />
       <mapping pattern="doimport" type="AUTO_DETECTED" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
