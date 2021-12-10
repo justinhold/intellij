@@ -31,6 +31,7 @@
       <removed_mapping ext="yaml" approved="true" type="YAML" />
       <removed_mapping ext="yml" approved="true" type="YAML" />
       <removed_mapping pattern=".prettierrc" approved="true" type="JSON" />
+      <removed_mapping pattern="Kptfile" approved="true" type="YAML" />
       <mapping ext="plantuml" type="PlantUML file" />
     </extensionMap>
   </component>
