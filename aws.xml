@@ -1,0 +1,14 @@
+<application>
+  <component name="executables">
+    <option name="value">
+      <list>
+        <ExecutableState>
+          <option name="autoResolved" value="true" />
+          <option name="executablePath" value="/usr/local/bin/sam" />
+          <option name="id" value="samCli" />
+          <option name="lastKnownFileTime" value="1637744916009" />
+        </ExecutableState>
+      </list>
+    </option>
+  </component>
+</application>
