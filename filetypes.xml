@@ -9,7 +9,6 @@
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="gfk-checkpoint-cme-assumed.json" type="PLAIN_TEXT" />
       <mapping ext="tfstate" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
